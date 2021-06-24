@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18154" systemVersion="20E241" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="NSTabInfo" representedClassName="NSTabInfo" syncable="YES">
+        <attribute name="name" attributeType="String"/>
+        <attribute name="order" attributeType="Integer 64" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="NSTabInfo" positionX="-63" positionY="-18" width="128" height="59"/>
+    </elements>
+</model>
